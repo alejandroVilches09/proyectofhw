@@ -8,13 +8,8 @@
 <name>Alejandro Vilches Luna</name>
 <email>vilual_aliesma20@iesmedinaazahara.es</email>
 </author>
-<category term="Viajes ficticios"/>
-<contributor>
-<name>otro Autor</name>
-<email>otro@gmail.com</email>
-<uri>https://www.linkedin.com/in/otro</uri>
-</contributor>
-<logo>viajes.jpg</logo>
+<category term="Instalaciones"/>
+<logo>blog_manual.png</logo>
 <entry>
 <id>https://alejandrovilches09.github.io/proyectofhw/Paginas/antivirus.html</id>
 <title>Avast</title>

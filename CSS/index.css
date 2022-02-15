@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+body {
+
+    background-image: url("../imagenes/automation-software-background-gears-icons-made-with-binary-code-iot-and-automation-concept-digital-binary-data-and-streaming-digital-code-mat.jpg");
+    color: white;
+}
+header {
+   background-color: #05009A;
+   padding: 10px;
+   text-align: center;
+   font-size: 25px;
+   color: white;
+   margin-bottom: 30px;
+}
+h1 {
+    padding: 0px;
+    margin: 0px; 
+}
+.menu {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    display:inline-block
+}
+.menu li{
+    border: none;
+    font-size: 18px;
+    margin-top: 18px;
+}
+.menu li a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    display: block;
+    padding: 12px;
+}
+.menu a:hover{
+    background-color: #eee;
+    color: black;
+    text-decoration: none;
+}
+.menu a.active {
+    background-color: #04AA6D;
+    color: rgb(0, 0, 0);
+}
+#divBody{
+    display: flex;
+    justify-content: flex-start;
+}
+iframe{
+height:510px;
+width: 1300px;
+
+}
+#pie{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1em;
+    text-align: center;
+    background-color: #05009A;
+}

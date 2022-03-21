@@ -54,4 +54,26 @@
 <summary> En este articulo encontrara un manual sobre DiskDrill instalado en Windows y un manual de SafeCopy en Linux.</summary>
 <link rel="alternate" href="https://alejandrovilches09.github.io/proyectofhw/Paginas/recudatos.html"/>
 </entry>
+<entry>
+<id>https://alejandrovilches09.github.io/proyectofhw/Paginas/clonezilla.html</id>
+<title>Clonezilla</title>
+<update>2022-03-02T13:00:00+01:00</update>
+<author>
+<name>Alejandro Vilches Luna</name>
+<email>vilual_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En este articulo encontrara un manual sobre clonezilla haciendo una clonacion local sobre una imagen ISO.</summary>
+<link rel="alternate" href="https://alejandrovilches09.github.io/proyectofhw/Paginas/clonezilla.html"/>
+</entry>
+<entry>
+<id>https://alejandrovilches09.github.io/proyectofhw/Paginas/samba.html</id>
+<title>Samba</title>
+<update>2022-03-20T13:00:00+01:00</update>
+<author>
+<name>Alejandro Vilches Luna</name>
+<email>vilual_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En este articulo encontrara un manual sobre clonezilla clonando una imagen ISO en otro ordenador mediante Samba.</summary>
+<link rel="alternate" href="https://alejandrovilches09.github.io/proyectofhw/Paginas/samba.html"/>
+</entry>
 </feed>
